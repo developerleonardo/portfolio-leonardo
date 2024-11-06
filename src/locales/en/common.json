@@ -1,0 +1,124 @@
+{
+  "title": "Web Frontend Developer - Leonardo Salazar",
+  "description": "Frontend Web Developer based in Medellín, Colombia. Skilled in React, Tailwind, JavaScript ES6+, CSS3, and HTML5.",
+  "navbar": [
+    {
+      "label": "Home",
+      "href": "#top"
+    },
+    {
+      "label": "Experience",
+      "href": "/en/#work-experience"
+    },
+    {
+      "label": "Projects",
+      "href": "/en/#projects"
+    },
+    {
+      "label": "About me",
+      "href": "/en/#about-me"
+    }
+  ],
+  "hero": {
+    "job_availability": "Available for work!",
+    "title": "Hello I'm Leonardo!",
+    "job_title": "<strong>Web Frontend Developer</strong> from Medellin, Colombia.",
+    "description": "Proficient in React, Tailwind, JavaScript ES6+, CSS3, and HTML5.",
+    "cta": "Download CV"
+  },
+  "experience": {
+    "title": "Work Experience",
+    "jobs": {
+      "jobs_title": ["Freelance", "HD Media Nicaragua"],
+      "jobs_description": [
+        {
+          "title": "Web Frontend Developer",
+          "time": ["Dec 2021"],
+          "description": "I create modern websites with good UI/UX practices. I also manage SEO, security and performance optimizations to increase conversion and visits.",
+          "list": ["Design of websites", "Optimization of websites"]
+        },
+        {
+          "title": "WordPress Web Developer",
+          "time": ["Nov 2020", "Oct 2021"],
+          "description": "I was in charge of developing WordPress websites for clients in Nicaragua, during my time at the agency I contributed my knowledge in web security by increasing measures and decreasing security gaps in WordPress, configuring plugins and setting HTTP headers such as Content-Security-Policy (CSP), Cross-Origin-Resource-Policy (CORP), Cross-Origin-Opener-Policy (COOP), etc.",
+          "list": ["Design of websites", "Optimization of websites"]
+        }
+      ]
+    }
+  },
+  "projects": {
+    "title": "Projects",
+    "projects": [
+      {
+        "title": "Shopi",
+        "description": "A fully-featured ecommerce application with navigation and product filtering by category and name. Simulates a real shopping experience. Simplified authentication process requires no personal data, making demo access easy.",
+        "image": "/src/images/projects/Shopi-home.jpg",
+        "techs": ["React", "TailwindCSS"],
+        "code": "Code",
+        "preview": "Preview"
+      },
+      {
+        "title": "To-Do Titan",
+        "description": "Task management application enabling users to create, manage, and track to-do lists effortlessly. Provides an intuitive and efficient user experience where users can add, complete, or delete tasks.",
+        "image": "/src/images/projects/todo-titan.jpg",
+        "techs": ["React", "TailwindCSS"],
+        "code": "Code",
+        "preview": "Preview"
+      }
+    ]
+  },
+  "contributions": {
+    "title": "Contributions",
+    "contributions": [
+      {
+        "src": "/src/images/contributions/advanced-periodontics.jpg",
+        "alt": "Advanced Periodontics",
+        "title": "Advanced Periodontics",
+        "description": "In collaboration with a marketing agency in Texas, United States. I worked on the creation of the website for the Advanced Periodontics & Dental Implants clinic.",
+        "techs": ["HTML", "CSS", "JavaScript", "PHP", "WordPress"],
+        "repo": "#",
+        "repo_label": "Repository",
+        "commits": "#"
+      },
+      {
+        "src": "/src/images/contributions/advanced-periodontics.jpg",
+        "alt": "Advanced Periodontics",
+        "title": "Advanced Periodontics",
+        "description": "In collaboration with a marketing agency in Texas, United States. I worked on the creation of the website for the Advanced Periodontics & Dental Implants clinic.",
+        "techs": ["HTML", "CSS", "JavaScript", "PHP", "WordPress"],
+        "repo": "#",
+        "repo_label": "Repository",
+        "commits": "#"
+      },
+      {
+        "src": "/src/images/contributions/advanced-periodontics.jpg",
+        "alt": "Advanced Periodontics",
+        "title": "Advanced Periodontics",
+        "description": "In collaboration with a marketing agency in Texas, United States. I worked on the creation of the website for the Advanced Periodontics & Dental Implants clinic.",
+        "techs": ["HTML", "CSS", "JavaScript", "PHP", "WordPress"],
+        "repo": "#",
+        "repo_label": "Repository",
+        "commits": "#"
+      }
+    ]
+  },
+  "about": {
+    "title": "About me",
+    "subtitle": "I am a software programming student and frontend developer through the ONE program.",
+    "description": "I’m Leonardo, a Colombian frontend developer with a passion for continuous learning. I specialized in frontend development through a scholarship with Oracle Next Education, where I also studied soft skills. Beyond tech, I hold a deep love and professional knowledge of animals. In my spare time, I enjoy playing musical instruments and photography. My dedication to growth and creativity fuels my pursuit of excellence in every project."
+  },
+  "contact": {
+    "title": "Ready to make your dreams come true?",
+    "subtitle": "I can boost your project or be part of your team"
+  },
+  "footer": {
+    "designed": {
+      "designed_with": "Designed with",
+      "designed_by": "by"
+    },
+    "developed": {
+      "developed_with": "Made with",
+      "developed_by": "by"
+    }
+  }
+}

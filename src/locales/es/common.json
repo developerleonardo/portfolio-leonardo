@@ -1,0 +1,124 @@
+{
+  "title": "Desarrollador Web Frontend - Leonardo Salazar",
+  "description": "Desarrollador Web Frontend de Medellín, Colombia. React, Tailwind, JavaScript ES6+, CSS3 y HTML5.",
+  "navbar": [
+    {
+      "label": "Inicio",
+      "href": "#top"
+    },
+    {
+      "label": "Experiencia",
+      "href": "#experiencia-laboral"
+    },
+    {
+      "label": "Proyectos",
+      "href": "#proyectos"
+    },
+    {
+      "label": "Sobre mí",
+      "href": "#sobre-mi"
+    }
+  ],
+  "hero": {
+    "job_availability": "¡Disponible para trabajar!",
+    "title": "¡Hola soy Leonardo!",
+    "job_title": "<strong>Desarrollador Web Frontend</strong> de Medellín, Colombia.",
+    "description": "React, Tailwind, JavaScript ES6+, CSS3 y HTML5.",
+    "cta": "Descargar CV"
+  },
+  "experience": {
+    "title": "Experiencia laboral",
+    "jobs": {
+      "jobs_title": ["Freelance", "HD Media Nicaragua"],
+      "jobs_description": [
+        {
+          "title": "Desarrollador Web Frontend",
+          "time": ["Dic 2021"],
+          "description": "Creo sitios web con diseños modernos y aplicando buenas prácticas de UI/UX. También me encargo de rediseñar, optimizar el posicionamiento SEO, aumentar las medidas de seguridad y optimizar el rendimiento de velocidad de sitios web, para aumentar la taza de conversión y las visitas.",
+          "list": ["Diseño de sitios web", "Optimización de sitios web"]
+        },
+        {
+          "title": "Desarrollador Web en WordPress",
+          "time": ["Nov 2020", "Oct 2021"],
+          "description": "Me encargué de desarrollar sitios web en WordPress para clientes de Nicaragua, durante mi tiempo en la agencia aporté mi conocimiento en seguridad web aumentando las medidas y disminuyendo las brechas de seguridad en WordPress, configurando plugins y estableciendo cabeceras HTTP como Content-Security-Policy (CSP), Cross-Origin-Resource-Policy (CORP), Cross-Origin-Opener-Policy (COOP), etc.",
+          "list": ["Diseño de sitios web", "Optimización de sitios web"]
+        }
+      ]
+    }
+  },
+  "projects": {
+    "title": "Proyectos",
+    "projects": [
+      {
+        "title": "Shopi",
+        "description": "Aplicación de ecommerce con funcionalidades completas de navegación y filtrado de productos por categoría y nombre. Simula una experiencia de compra real. La autenticación es sencilla y no requiere datos personales, facilitando el acceso al demo.",
+        "image": "/src/images/projects/Shopi-home.jpg",
+        "techs": ["React", "TailwindCSS"],
+        "code": "Código",
+        "preview": "Vista previa"
+      },
+      {
+        "title": "To-Do Titan",
+        "description": "Aplicación de gestión de tareas. Permite crear, gestionar y hacer seguimiento de listas de tareas con facilidad, ofreciendo una experiencia de usuario intuitiva y eficiente. Los usuarios pueden añadir, completar o eliminar tareas",
+        "image": "/src/images/projects/todo-titan.jpg",
+        "techs": ["React", "TailwindCSS"],
+        "code": "Código",
+        "preview": "Vista previa"
+      }
+    ]
+  },
+  "contributions": {
+    "title": "Contribuciones",
+    "contributions": [
+      {
+        "src": "/src/images/contributions/advanced-periodontics.jpg",
+        "alt": "Advanced Periodontics",
+        "title": "Advanced Periodontics",
+        "description": "En conjunto con una agencia especializada en marketing en el estado de Texas, Estados Unidos. Colaboré en la creación del sitio web para la clínica Advanced Periodontics & Dental Implants.",
+        "techs": ["HTML", "CSS", "JavaScript", "PHP", "WordPress"],
+        "repo": "#",
+        "repo_label": "Repositorio",
+        "commits": "#"
+      },
+      {
+        "src": "/src/images/contributions/advanced-periodontics.jpg",
+        "alt": "Advanced Periodontics",
+        "title": "Advanced Periodontics",
+        "description": "En conjunto con una agencia especializada en marketing en el estado de Texas, Estados Unidos. Colaboré en la creación del sitio web para la clínica Advanced Periodontics & Dental Implants.",
+        "techs": ["HTML", "CSS", "JavaScript", "PHP", "WordPress"],
+        "repo": "#",
+        "repo_label": "Repositorio",
+        "commits": "#"
+      },
+      {
+        "src": "/src/images/contributions/advanced-periodontics.jpg",
+        "alt": "Advanced Periodontics",
+        "title": "Advanced Periodontics",
+        "description": "En conjunto con una agencia especializada en marketing en el estado de Texas, Estados Unidos. Colaboré en la creación del sitio web para la clínica Advanced Periodontics & Dental Implants.",
+        "techs": ["HTML", "CSS", "JavaScript", "PHP", "WordPress"],
+        "repo": "#",
+        "repo_label": "Repositorio",
+        "commits": "#"
+      }
+    ]
+  },
+  "about": {
+    "title": "Sobre mí",
+    "subtitle": "Soy estudiante de técnico en programación de software y desarrollador frontend del programa ONE",
+    "description": "Soy Leonardo, desarrollador frontend colombiano apasionado por el aprendizaje continuo. Me especialicé en desarrollo frontend gracias a una beca de Oracle Next Education. También estudié habilidades blandas. Aparte de la tecnología, tengo un profundo amor y conocimiento profesional por los animales. En mi tiempo libre me gusta tocar instrumentos musicales y la fotografía. Mi dedicación al crecimiento y la creatividad impulsa mi búsqueda de la excelencia en cada proyecto."
+  },
+  "contact": {
+    "title": "¿Listo para dar vida a tus ideas?",
+    "subtitle": "Puedo impulsar tu proyecto o formar parte de tu equipo"
+  },
+  "footer": {
+    "designed": {
+      "designed_with": "Diseñado con",
+      "designed_by": "por"
+    },
+    "developed": {
+      "developed_with": "Hecho con",
+      "developed_by": "por"
+    }
+  }
+}

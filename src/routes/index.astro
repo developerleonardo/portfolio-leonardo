@@ -14,6 +14,12 @@ const options = {
   title: t('common:title'),
   description: t('common:description')
 }
+
+// Cambiar a true para mostrar la sección de experiencia cuando tenga algo hecho
+const showExperience = false
+
+// Cambiar a true para mostrar la sección de conrtibuciones cuando haya hecho algunas
+const showContribution = false
 ---
 
 <Layout options={options}>
@@ -21,9 +27,9 @@ const options = {
 
   <main>
     <Hero />
-    <Experience />
+    {showExperience && <Experience />}
     <Projects />
-    <Contributions />
+    {showContribution && <Contributions />}
     <About />
     <Contact />
   </main>

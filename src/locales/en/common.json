@@ -1,6 +1,6 @@
 {
   "title": "Web Frontend Developer - Leonardo Salazar",
-  "description": "Frontend Web Developer based in Medellín, Colombia. Skilled in React, Tailwind, JavaScript ES6+, CSS3, and HTML5.",
+  "description": "Frontend Web Developer based in Medellín, Colombia. Skilled in React, TailwindCSS, JavaScript ES6+, CSS3, and HTML5.",
   "navbar": [
     {
       "label": "Home",
@@ -23,7 +23,7 @@
     "job_availability": "Available for work!",
     "title": "Hello I'm Leonardo!",
     "job_title": "<strong>Web Frontend Developer</strong> from Medellin, Colombia.",
-    "description": "Proficient in React, Tailwind, JavaScript ES6+, CSS3, and HTML5.",
+    "description": "Proficient in React, TailwindCSS, JavaScript ES6+, CSS3, and HTML5.",
     "cta": "Download CV"
   },
   "experience": {
@@ -55,7 +55,9 @@
         "image": "/src/images/projects/Shopi-home.jpg",
         "techs": ["React", "TailwindCSS"],
         "code": "Code",
-        "preview": "Preview"
+        "preview": "Preview",
+        "previewLink": "https://developerleonardo.github.io/Shopi/",
+        "repo": "https://github.com/developerleonardo/Shopi"
       },
       {
         "title": "To-Do Titan",
@@ -63,7 +65,9 @@
         "image": "/src/images/projects/todo-titan.jpg",
         "techs": ["React", "TailwindCSS"],
         "code": "Code",
-        "preview": "Preview"
+        "preview": "Preview",
+        "previewLink": "https://developerleonardo.github.io/todo-titan/",
+        "repo": "https://github.com/developerleonardo/todo-titan"
       }
     ]
   },

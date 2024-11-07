@@ -1,6 +1,6 @@
 {
   "title": "Desarrollador Web Frontend - Leonardo Salazar",
-  "description": "Desarrollador Web Frontend de Medellín, Colombia. React, Tailwind, JavaScript ES6+, CSS3 y HTML5.",
+  "description": "Desarrollador Web Frontend de Medellín, Colombia. React, TailwindCSS, JavaScript ES6+, CSS3 y HTML5.",
   "navbar": [
     {
       "label": "Inicio",
@@ -23,7 +23,7 @@
     "job_availability": "¡Disponible para trabajar!",
     "title": "¡Hola soy Leonardo!",
     "job_title": "<strong>Desarrollador Web Frontend</strong> de Medellín, Colombia.",
-    "description": "React, Tailwind, JavaScript ES6+, CSS3 y HTML5.",
+    "description": "React, TailwindCSS, JavaScript ES6+, CSS3 y HTML5.",
     "cta": "Descargar CV"
   },
   "experience": {
@@ -55,7 +55,9 @@
         "image": "/src/images/projects/Shopi-home.jpg",
         "techs": ["React", "TailwindCSS"],
         "code": "Código",
-        "preview": "Vista previa"
+        "preview": "Vista previa",
+        "previewLink": "https://developerleonardo.github.io/Shopi/",
+        "repo": "https://github.com/developerleonardo/Shopi"
       },
       {
         "title": "To-Do Titan",
@@ -63,7 +65,9 @@
         "image": "/src/images/projects/todo-titan.jpg",
         "techs": ["React", "TailwindCSS"],
         "code": "Código",
-        "preview": "Vista previa"
+        "preview": "Vista previa",
+        "previewLink": "https://developerleonardo.github.io/todo-titan/",
+        "repo": "https://github.com/developerleonardo/todo-titan"
       }
     ]
   },
@@ -104,7 +108,7 @@
   },
   "about": {
     "title": "Sobre mí",
-    "subtitle": "Soy estudiante de técnico en programación de software y desarrollador frontend del programa ONE",
+    "subtitle": "Soy estudiante de la carrera de técnico en programación de software y desarrollador frontend del programa ONE",
     "description": "Soy Leonardo, desarrollador frontend colombiano apasionado por el aprendizaje continuo. Me especialicé en desarrollo frontend gracias a una beca de Oracle Next Education. También estudié habilidades blandas. Aparte de la tecnología, tengo un profundo amor y conocimiento profesional por los animales. En mi tiempo libre me gusta tocar instrumentos musicales y la fotografía. Mi dedicación al crecimiento y la creatividad impulsa mi búsqueda de la excelencia en cada proyecto."
   },
   "contact": {

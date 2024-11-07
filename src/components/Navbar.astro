@@ -5,17 +5,23 @@ import ToggleSwitch from '@components/ToggleSwitch.astro'
 
 // Obtenemos los enlaces de la navegación de locales
 const links = t('navbar', { returnObjects: true })
+
+// Cambiar a true para mostrar el enlace de experiencia cuando exista esta sección
+const showExperienceLink = false
 ---
 
 <nav id="menu">
   <ul>
     {
       links.map(({ label, href }, index) => (
-        <li>
-          <a class:list={{ active: index === 0 }} href={href}>
-            {label}
-          </a>
-        </li>
+        // Aquí convertimos `label` a `string` para evitar el error de comparación
+        ((label as string) !== 'Experiencia' && (label as string) !== 'Experience' || showExperienceLink) && (
+          <li>
+            <a class:list={{ active: index === 0 }} href={href}>
+              {label}
+            </a>
+          </li>
+        )
       ))
     }
     <li>

@@ -1,6 +1,6 @@
 ---
 import { t } from 'i18n:astro'
-import { URL } from '@data/constants'
+// import { URL } from '@data/constants'
 import Layout from '@layouts/Layout.astro'
 import About from '@pages/_home/About.astro'
 import Contact from '@pages/_home/Contact.astro'
@@ -23,7 +23,7 @@ const showContribution = false
 ---
 
 <Layout options={options}>
-  <OpenGraph information={options} image=`${URL}/og/unicorn-sparkle-og.png` />
+  <OpenGraph information={options} image=`/og/preview.png` />
 
   <main>
     <Hero />

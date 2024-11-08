@@ -20,8 +20,7 @@ export default defineConfig({
     prefetchAll: true,
     defaultStrategy: 'viewport'
   },
-  // compressHTML: false,
-  compressHTML: true,
+  compressHTML: false,
   integrations: [
     tunnel(),
     icon(),

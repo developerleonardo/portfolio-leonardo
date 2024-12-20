@@ -50,6 +50,16 @@
     "title": "Projects",
     "projects": [
       {
+        "title": "Trello Board",
+        "description": "Trello board with full functionality for creating, editing, and deleting lists and cards. I designed the application from scratch using Figma.",
+        "image": "/src/images/projects/trello-board.jpg",
+        "techs": ["React", "Typescript", "CSS"],
+        "code": "Code",
+        "preview": "Preview",
+        "previewLink": "https://trello-board-gamma.vercel.app/",
+        "repo": "https://github.com/developerleonardo/trello-board"
+      },
+      {
         "title": "Shopi",
         "description": "A fully-featured ecommerce application with navigation and product filtering by category and name. Simulates a real shopping experience. Simplified authentication process requires no personal data, making demo access easy.",
         "image": "/src/images/projects/Shopi-home.jpg",
@@ -108,8 +118,8 @@
   },
   "about": {
     "title": "About me",
-    "subtitle": "I am a software programming student and frontend developer through the ONE program.",
-    "description": "I’m Leonardo, a Colombian frontend developer with a passion for continuous learning. I specialized in frontend development through a scholarship with Oracle Next Education, where I also studied soft skills. Beyond tech, I hold a deep love and professional knowledge of animals. In my spare time, I enjoy playing musical instruments and photography. My dedication to growth and creativity fuels my pursuit of excellence in every project."
+    "subtitle": "I am a software programming student.",
+    "description": "I am Leonardo, a Colombian frontend developer. After working for four years as a veterinarian, I decided to pursue my dream of becoming a frontend developer. I participated in the frontend specialization of the ONE program by Alura Latam and later enrolled in a technical software programming program. In my free time, I enjoy playing musical instruments and photography."
   },
   "contact": {
     "title": "Ready to make your dreams come true?",
@@ -123,6 +133,9 @@
     "developed": {
       "developed_with": "Made with",
       "developed_by": "by"
+    },
+    "implemented": {
+      "implemented_by": "Implemented by"
     }
   }
 }

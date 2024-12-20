@@ -50,6 +50,16 @@
     "title": "Proyectos",
     "projects": [
       {
+        "title": "Trello Board",
+        "description": "Tablero de Trello con funcionalidades completas de creación, edición y eliminación de listas y tarjetas. Realicé el diseño de la aplicación desde cero usando Figma.",
+        "image": "/src/images/projects/trello-board.jpg",
+        "techs": ["React", "Typescript", "CSS"],
+        "code": "Código",
+        "preview": "Vista previa",
+        "previewLink": "https://trello-board-gamma.vercel.app/",
+        "repo": "https://github.com/developerleonardo/trello-board"
+      },
+      {
         "title": "Shopi",
         "description": "Aplicación de ecommerce con funcionalidades completas de navegación y filtrado de productos por categoría y nombre. Simula una experiencia de compra real. La autenticación es sencilla y no requiere datos personales, facilitando el acceso al demo.",
         "image": "/src/images/projects/Shopi-home.jpg",
@@ -108,8 +118,8 @@
   },
   "about": {
     "title": "Sobre mí",
-    "subtitle": "Soy estudiante de la carrera de técnico en programación de software y desarrollador frontend del programa ONE",
-    "description": "Soy Leonardo, desarrollador frontend colombiano apasionado por el aprendizaje continuo. Me especialicé en desarrollo frontend gracias a una beca de Oracle Next Education. También estudié habilidades blandas. Aparte de la tecnología, tengo un profundo amor y conocimiento profesional por los animales. En mi tiempo libre me gusta tocar instrumentos musicales y la fotografía. Mi dedicación al crecimiento y la creatividad impulsa mi búsqueda de la excelencia en cada proyecto."
+    "subtitle": "Soy estudiante de la carrera de técnico en programación de software",
+    "description": "Soy Leonardo, desarrollador frontend colombiano. Luego de ejercer durante 4 años como médico veterinario decidí perseguir mis sueños de convertirme en desarrollador frontend. Participé en la especialización frontend del programa ONE de Alura Latam y luego me inscribí a un programa técnico de programación de software. En mi tiempo libre me gusta tocar instrumentos musicales y la fotografía."
   },
   "contact": {
     "title": "¿Listo para dar vida a tus ideas?",
@@ -123,6 +133,9 @@
     "developed": {
       "developed_with": "Hecho con",
       "developed_by": "por"
+    },
+    "implemented": {
+      "implemented_by": "Implementado por"
     }
   }
 }

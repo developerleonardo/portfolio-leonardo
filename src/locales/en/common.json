@@ -1,6 +1,6 @@
 {
   "title": "Web Frontend Developer - Leonardo Salazar",
-  "description": "Frontend Web Developer based in Medellín, Colombia. Skilled in React, TailwindCSS, JavaScript ES6+, CSS3, and HTML5.",
+  "description": "Frontend Web Developer based in Medellín, Colombia. Skilled in React, Typescript, TailwindCSS, CSS3, and HTML5.",
   "navbar": [
     {
       "label": "Home",
@@ -23,7 +23,7 @@
     "job_availability": "Available for work!",
     "title": "Hello I'm Leonardo!",
     "job_title": "<strong>Web Frontend Developer</strong> from Medellin, Colombia.",
-    "description": "Proficient in React, TailwindCSS, JavaScript ES6+, CSS3, and HTML5.",
+    "description": "Proficient in React, Typescript, TailwindCSS, CSS3, and HTML5.",
     "cta": "Download CV"
   },
   "experience": {
@@ -56,7 +56,7 @@
         "techs": ["React", "Typescript", "CSS"],
         "code": "Code",
         "preview": "Preview",
-        "previewLink": "https://trello-board-gamma.vercel.app/",
+        "previewLink": "https://boardy-project-gamma.vercel.app/",
         "repo": "https://github.com/developerleonardo/trello-board"
       },
       {

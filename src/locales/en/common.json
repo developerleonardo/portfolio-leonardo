@@ -88,10 +88,10 @@
         "src": "/src/images/contributions/afordin-web-stats.jpg",
         "alt": "Beerdin stats",
         "title": "Beerdin stats",
-        "description": "In collaboration with <a href='https://github.com/Afordin' target='_blank' rel='noopener noreferrer' class='description-link'>Afordin</a>. <br> I worked on the website design using <a href='https://www.figma.com/design/bJtuMCSitvEhSugW4mQZsW/afordin-web-stats?node-id=33-153&p=f&t=9smQhS85vKfprhe1-0/Variety-Designs?type=design&node-id=1203-960&mode=design&t=MtKYUyZD2jwNeTxp-0' target='_blank' rel='noopener noreferrer' class='description-link'>Figma</a> and on the frontend implementation. <br> I was responsible for translating UI/UX designs into interactive components. <br> I developed reusable components in React and integrated TypeScript to improve scalability.",
+        "description": "In collaboration with <a href='https://github.com/Afordin' target='_blank' rel='noopener noreferrer' class='description-link'>Afordin</a>. <br> I was a key contributor in the development and design of the project. I collaborated on the design of the UI Kit and actively participated in the integration between design and development, researching tools and establishing that connection using <a href='https://www.figma.com/design/bJtuMCSitvEhSugW4mQZsW/afordin-web-stats?node-id=33-153&p=f&t=9smQhS85vKfprhe1-0/Variety-Designs?type=design&node-id=1203-960&mode=design&t=MtKYUyZD2jwNeTxp-0' target='_blank' rel='noopener noreferrer' class='description-link'>Figma</a> Additionally, I played a fundamental role in the frontend implementation, ensuring a consistent and scalable interactive experience.",
         "techs": ["React", "Typescript", "TailwindCSS"],
-        "repo": "https://github.com/Afordin/beerdin-front",
-        "repo_label": "Repository",
+        "repo": "https://beerdin-front.netlify.app/",
+        "repo_label": "Project",
         "commits": "https://github.com/Afordin/beerdin-front/commits/main?author=developerleonardo"
       }
     ]

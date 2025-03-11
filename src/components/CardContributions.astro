@@ -41,9 +41,8 @@ if (!images[src])
     </a>
   </div>
   <h3><a href={repo}>{title}</a></h3>
-  <p>
-    {description}
-  </p>
+  <p set:html={description} />
+
   <div class="badges">
     {
       techs.map((tech) => {

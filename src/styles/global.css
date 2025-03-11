@@ -104,3 +104,32 @@ p {
 .headline-4 {
   font-size: 1.25rem;
 }
+
+.description-link {
+  position: relative;
+  color: #ededed;
+  font-weight: 700;
+  text-decoration: none;
+  padding: 0.05em 0;
+  transition: color 0.2s;
+}
+
+.description-link::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: -2px; /* Adjusted for inline text */
+  width: 100%;
+  height: 2px;
+  background-color: #ededed;
+  transition: width 0.3s ease-in-out;
+  transform-origin: left;
+}
+
+.description-link:hover::after {
+  width: 0%;
+}
+
+.description-link:hover {
+  color: #ededed;
+}

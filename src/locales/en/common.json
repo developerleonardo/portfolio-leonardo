@@ -50,7 +50,7 @@
     "title": "Projects",
     "projects": [
       {
-        "title": "Trello Board",
+        "title": "Boardy",
         "description": "Trello board with full functionality for creating, editing, and deleting lists and cards. I designed the application from scratch using Figma.",
         "image": "/src/images/projects/trello-board.jpg",
         "techs": ["React", "Typescript", "CSS"],
@@ -85,34 +85,14 @@
     "title": "Contributions",
     "contributions": [
       {
-        "src": "/src/images/contributions/advanced-periodontics.jpg",
-        "alt": "Advanced Periodontics",
-        "title": "Advanced Periodontics",
-        "description": "In collaboration with a marketing agency in Texas, United States. I worked on the creation of the website for the Advanced Periodontics & Dental Implants clinic.",
-        "techs": ["HTML", "CSS", "JavaScript", "PHP", "WordPress"],
-        "repo": "#",
+        "src": "/src/images/contributions/afordin-web-stats.jpg",
+        "alt": "Beerdin stats",
+        "title": "Beerdin stats",
+        "description": "In collaboration with <a href='https://github.com/Afordin' target='_blank' rel='noopener noreferrer' class='description-link'>Afordin</a>. <br> I worked on the website design using <a href='https://www.figma.com/design/bJtuMCSitvEhSugW4mQZsW/afordin-web-stats?node-id=33-153&p=f&t=9smQhS85vKfprhe1-0/Variety-Designs?type=design&node-id=1203-960&mode=design&t=MtKYUyZD2jwNeTxp-0' target='_blank' rel='noopener noreferrer' class='description-link'>Figma</a> and on the frontend implementation. <br> I was responsible for translating UI/UX designs into interactive components. <br> I developed reusable components in React and integrated TypeScript to improve scalability.",
+        "techs": ["React", "Typescript", "TailwindCSS"],
+        "repo": "https://github.com/Afordin/beerdin-front",
         "repo_label": "Repository",
-        "commits": "#"
-      },
-      {
-        "src": "/src/images/contributions/advanced-periodontics.jpg",
-        "alt": "Advanced Periodontics",
-        "title": "Advanced Periodontics",
-        "description": "In collaboration with a marketing agency in Texas, United States. I worked on the creation of the website for the Advanced Periodontics & Dental Implants clinic.",
-        "techs": ["HTML", "CSS", "JavaScript", "PHP", "WordPress"],
-        "repo": "#",
-        "repo_label": "Repository",
-        "commits": "#"
-      },
-      {
-        "src": "/src/images/contributions/advanced-periodontics.jpg",
-        "alt": "Advanced Periodontics",
-        "title": "Advanced Periodontics",
-        "description": "In collaboration with a marketing agency in Texas, United States. I worked on the creation of the website for the Advanced Periodontics & Dental Implants clinic.",
-        "techs": ["HTML", "CSS", "JavaScript", "PHP", "WordPress"],
-        "repo": "#",
-        "repo_label": "Repository",
-        "commits": "#"
+        "commits": "https://github.com/Afordin/beerdin-front/commits/main?author=developerleonardo"
       }
     ]
   },

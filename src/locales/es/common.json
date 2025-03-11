@@ -50,7 +50,7 @@
     "title": "Proyectos",
     "projects": [
       {
-        "title": "Trello Board",
+        "title": "Boardy",
         "description": "Tablero de Trello con funcionalidades completas de creación, edición y eliminación de listas y tarjetas. Realicé el diseño de la aplicación desde cero usando Figma.",
         "image": "/src/images/projects/trello-board.jpg",
         "techs": ["React", "Typescript", "CSS"],
@@ -85,34 +85,14 @@
     "title": "Contribuciones",
     "contributions": [
       {
-        "src": "/src/images/contributions/advanced-periodontics.jpg",
-        "alt": "Advanced Periodontics",
-        "title": "Advanced Periodontics",
-        "description": "En conjunto con una agencia especializada en marketing en el estado de Texas, Estados Unidos. Colaboré en la creación del sitio web para la clínica Advanced Periodontics & Dental Implants.",
-        "techs": ["HTML", "CSS", "JavaScript", "PHP", "WordPress"],
-        "repo": "#",
+        "src": "/src/images/contributions/afordin-web-stats.jpg",
+        "alt": "Beerdin stats",
+        "title": "Beerdin stats",
+        "description": "En colaboración con Comuafor, <a href='https://github.com/Afordin' target='_blank' rel='noopener noreferrer' class='description-link'>Afordin</a>. <br> Trabajé en el diseño del sitio web utilizando <a href='https://www.figma.com/design/bJtuMCSitvEhSugW4mQZsW/afordin-web-stats?node-id=33-153&p=f&t=9smQhS85vKfprhe1-0/Variety-Designs?type=design&node-id=1203-960&mode=design&t=MtKYUyZD2jwNeTxp-0' target='_blank' rel='noopener noreferrer' class='description-link'>Figma</a> y en la implementación del frontend. <br> Fui responsable de traducir los diseños UI/UX en componentes interactivos. <br> Implementé componentes reutilizables en React e integré TypeScript para mejorar la escalabilidad.",
+        "techs": ["React", "Typescript", "TailwindCSS"],
+        "repo": "https://github.com/Afordin/beerdin-front",
         "repo_label": "Repositorio",
-        "commits": "#"
-      },
-      {
-        "src": "/src/images/contributions/advanced-periodontics.jpg",
-        "alt": "Advanced Periodontics",
-        "title": "Advanced Periodontics",
-        "description": "En conjunto con una agencia especializada en marketing en el estado de Texas, Estados Unidos. Colaboré en la creación del sitio web para la clínica Advanced Periodontics & Dental Implants.",
-        "techs": ["HTML", "CSS", "JavaScript", "PHP", "WordPress"],
-        "repo": "#",
-        "repo_label": "Repositorio",
-        "commits": "#"
-      },
-      {
-        "src": "/src/images/contributions/advanced-periodontics.jpg",
-        "alt": "Advanced Periodontics",
-        "title": "Advanced Periodontics",
-        "description": "En conjunto con una agencia especializada en marketing en el estado de Texas, Estados Unidos. Colaboré en la creación del sitio web para la clínica Advanced Periodontics & Dental Implants.",
-        "techs": ["HTML", "CSS", "JavaScript", "PHP", "WordPress"],
-        "repo": "#",
-        "repo_label": "Repositorio",
-        "commits": "#"
+        "commits": "https://github.com/Afordin/beerdin-front/commits/main?author=developerleonardo"
       }
     ]
   },

@@ -95,10 +95,10 @@
         "commits": "https://github.com/Afordin/beerdin-front/commits/main?author=developerleonardo"
       },
       {
-        "src": "/src/images/contributions/afordin-landing-1.jpg",
+        "src": "/src/images/contributions/afordin-landing.jpg",
         "alt": "Afordin Landing Page",
         "title": "Afordin Landing Page",
-        "description": "Fui un diseñador y desarrollador principal en una de las comunidades más grandes de desarollo de habla hispana, colaborando con un equipo de más de 20 profesionales, contribuí en el diseño en <a href='https://www.figma.com/design/pEtssqjyqA41RouHEgV5xU/Afordin-Designs?node-id=0-1&t=SRrsgqnxyVxQHBhd-1' target='_blank' rel='noopener noreferrer' class='description-link'>Figma</a> y en el Frontend. Desarrollé features principales como el footer. Elaboré la documentación del proyecto, lo cual tuvo un gran impacto al facilitar una mayor participación de nuevos integrantes y mejor fluidez",
+        "description": "Fui un diseñador y desarrollador principal en una de las comunidades más grandes de desarollo de habla hispana, colaborando con un equipo de más de 20 profesionales, contribuí en el diseño en <a href='https://www.figma.com/design/pEtssqjyqA41RouHEgV5xU/Afordin-Designs?node-id=0-1&t=SRrsgqnxyVxQHBhd-1' target='_blank' rel='noopener noreferrer' class='description-link'>Figma</a> y en el Frontend. Desarrollé features principales como el footer. Elaboré la documentación del proyecto, lo cual tuvo un gran impacto al facilitar una mayor participación de nuevos integrantes y mejor fluidez de trabajo en el equipo.",
         "techs": ["Astro", "Typescript", "TailwindCSS"],
         "repo": "https://afordin.netlify.app/",
         "repo_label": "Proyecto",

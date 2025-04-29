@@ -93,6 +93,16 @@
         "repo": "https://beerdin-front.netlify.app/",
         "repo_label": "Project",
         "commits": "https://github.com/Afordin/beerdin-front/commits/main?author=developerleonardo"
+      },
+      {
+        "src": "/src/images/contributions/afordin-landing-1.jpg",
+        "alt": "Afordin Landing Page",
+        "title": "Afordin Landing Page",
+        "description": "I was a designer and main developer in one of the largest Spanish-speaking development communities. Collaborating with a team of over 20 professionals, I contributed to the design using <a href='https://www.figma.com/design/pEtssqjyqA41RouHEgV5xU/Afordin-Designs?node-id=0-1&t=SRrsgqnxyVxQHBhd-1' target='_blank' rel='noopener noreferrer' class='description-link'>Figma</a> and worked on the frontend. I developed key features, including the footer, and created the project documentation, which had a significant impact by facilitating greater participation from new members and improving overall workflow.",
+        "techs": ["Astro", "Typescript", "TailwindCSS"],
+        "repo": "https://afordin.netlify.app/",
+        "repo_label": "Project",
+        "commits": "https://github.com/Afordin/web-afordin/commits/main?author=developerleonardo"
       }
     ]
   },

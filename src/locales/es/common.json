@@ -51,7 +51,7 @@
     "projects": [
       {
         "title": "Boardy",
-        "description": "Tablero de Trello con funcionalidades completas de creación, edición y eliminación de listas y tarjetas. Realicé el diseño de la aplicación desde cero usando Figma.",
+        "description": "Tablero de Trello con funcionalidades completas de creación, edición y eliminación de listas y tarjetas. Realicé el diseño de la aplicación desde cero usando Figma. Regístrate o inicia sesión como invitado para probarlo",
         "image": "/src/images/projects/trello-board.jpg",
         "techs": ["React", "Typescript", "CSS"],
         "code": "Código",
@@ -61,7 +61,7 @@
       },
       {
         "title": "Shopi",
-        "description": "Aplicación de ecommerce con funcionalidades completas de navegación y filtrado de productos por categoría y nombre. Simula una experiencia de compra real. La autenticación es sencilla y no requiere datos personales, facilitando el acceso al demo.",
+        "description": "Aplicación de ecommerce con funcionalidades completas de navegación y filtrado de productos por categoría y nombre. Simula una experiencia de compra real. La autenticación es sencilla y no requiere datos reales, facilitando el acceso al demo.",
         "image": "/src/images/projects/Shopi-home.jpg",
         "techs": ["React", "TailwindCSS"],
         "code": "Código",

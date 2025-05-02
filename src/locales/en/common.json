@@ -51,7 +51,7 @@
     "projects": [
       {
         "title": "Boardy",
-        "description": "Trello board with full functionality for creating, editing, and deleting lists and cards. I designed the application from scratch using Figma.",
+        "description": "Trello board with full functionality for creating, editing, and deleting lists and cards. I designed the application from scratch using Figma. Register or log in as a guest to try it out.",
         "image": "/src/images/projects/trello-board.jpg",
         "techs": ["React", "Typescript", "CSS"],
         "code": "Code",
@@ -61,7 +61,7 @@
       },
       {
         "title": "Shopi",
-        "description": "A fully-featured ecommerce application with navigation and product filtering by category and name. Simulates a real shopping experience. Simplified authentication process requires no personal data, making demo access easy.",
+        "description": "A fully-featured ecommerce application with navigation and product filtering by category and name. Simulates a real shopping experience. Simplified authentication process requires no real personal data, making demo access easy.",
         "image": "/src/images/projects/Shopi-home.jpg",
         "techs": ["React", "TailwindCSS"],
         "code": "Code",

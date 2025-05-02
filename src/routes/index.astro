@@ -17,19 +17,19 @@ const options = {
 
 // Cambiar a true para mostrar la sección de experiencia cuando tenga algo hecho
 const showExperience = false
-
-// Cambiar a true para mostrar la sección de conrtibuciones cuando haya hecho algunas
-const showContribution = true
 ---
 
 <Layout options={options}>
-  <OpenGraph information={options} image="https://portfolio-leonardo-cr5f.vercel.app/og/preview.png" />
+  <OpenGraph
+    information={options}
+    image="https://portfolio-leonardo-cr5f.vercel.app/og/preview.png"
+  />
 
   <main>
     <Hero />
     {showExperience && <Experience />}
     <Projects />
-    {showContribution && <Contributions />}
+    <Contributions />
     <About />
     <Contact />
   </main>

@@ -103,6 +103,16 @@
         "repo": "https://afordin.netlify.app/",
         "repo_label": "Proyecto",
         "commits": "https://github.com/Afordin/web-afordin/commits/main?author=developerleonardo"
+      },
+      {
+        "src": "/src/images/contributions/rave-team.jpg",
+        "alt": "Rave Team",
+        "title": "Rave Team",
+        "description": "En colaboración con talentosos diseñadores y programadores, desarrollé secciones clave del frontend, como el <b>Latest News, Join Ours Newsletter</b> y el <b>footer</b>. Además, optimicé la <b>documentación</b> para facilitar la <i>integración de nuevos miembros.</i>",
+        "techs": ["Astro", "Typescript", "TailwindCSS"],
+        "repo": "https://rave-team.vercel.app/",
+        "repo_label": "Proyecto",
+        "commits": "https://github.com/afordigital/rave-team/commits/main?author=developerleonardo"
       }
     ]
   },

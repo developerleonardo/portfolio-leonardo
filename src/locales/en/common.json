@@ -50,6 +50,16 @@
     "title": "Projects",
     "projects": [
       {
+        "title": "Readme Maker",
+        "description": "A modern GitHub README generator with live preview, dynamic templates, and real-time editing. Powered by Zustand and TanStack Query for optimal state and data handling. Fully responsive and scores 100% across all Lighthouse categories.",
+        "image": "/src/images/projects/readme-generator.jpg",
+        "techs": ["React", "Typescript", "TailwindCSS"],
+        "code": "Code",
+        "preview": "Preview",
+        "previewLink": "https://github-readme-maker-pi.vercel.app/",
+        "repo": "https://github.com/developerleonardo/github-readme-maker"
+      },
+      {
         "title": "Boardy",
         "description": "Trello board with full functionality for creating, editing, and deleting lists and cards. I designed the application from scratch using Figma. Register or log in as a guest to try it out.",
         "image": "/src/images/projects/trello-board.jpg",
@@ -68,16 +78,6 @@
         "preview": "Preview",
         "previewLink": "https://shopi-livid.vercel.app/",
         "repo": "https://github.com/developerleonardo/Shopi"
-      },
-      {
-        "title": "To-Do Titan",
-        "description": "Task management application enabling users to create, manage, and track to-do lists effortlessly. Provides an intuitive and efficient user experience where users can add, complete, or delete tasks.",
-        "image": "/src/images/projects/todo-titan.jpg",
-        "techs": ["React", "TailwindCSS"],
-        "code": "Code",
-        "preview": "Preview",
-        "previewLink": "https://developerleonardo.github.io/todo-titan/",
-        "repo": "https://github.com/developerleonardo/todo-titan"
       }
     ]
   },

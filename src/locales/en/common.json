@@ -29,19 +29,22 @@
   "experience": {
     "title": "Work Experience",
     "jobs": {
-      "jobs_title": ["Freelance", "HD Media Nicaragua"],
+      "jobs_title": ["Bancolombia", "Freelance"],
       "jobs_description": [
         {
-          "title": "Web Frontend Developer",
-          "time": ["Dec 2021"],
-          "description": "I create modern websites with good UI/UX practices. I also manage SEO, security and performance optimizations to increase conversion and visits.",
-          "list": ["Design of websites", "Optimization of websites"]
+          "title": "Technical Apprentice in Systems and Related Fields",
+          "time": ["July 2025", "Present"],
+          "description": "I am currently leading the development of a solution that will reduce by over 90% the time required to generate financial statement notes in Bancolombia's Corporate Credit Risk Management department.",
+          "list": ["Process automation using Python and Pandas",
+                  "Task optimization through custom scripts",
+                  "Handling and transforming data in Excel files",
+                  "Reducing operational time through technological solutions"]
         },
         {
-          "title": "WordPress Web Developer",
-          "time": ["Nov 2020", "Oct 2021"],
-          "description": "I was in charge of developing WordPress websites for clients in Nicaragua, during my time at the agency I contributed my knowledge in web security by increasing measures and decreasing security gaps in WordPress, configuring plugins and setting HTTP headers such as Content-Security-Policy (CSP), Cross-Origin-Resource-Policy (CORP), Cross-Origin-Opener-Policy (COOP), etc.",
-          "list": ["Design of websites", "Optimization of websites"]
+          "title": "Freelance UX Design Assistant - Peazy INC (New York)",
+          "time": ["June 2025", "Present"],
+          "description": "Freelance position focused on supporting UX design processes and facilitating communication between design and frontend development teams. I work on an hourly basis, depending on project requirements, ensuring that design deliverables are clear, actionable, and easily translatable into development tasks.",
+          "list": ["Assisting in UX/UI design processes, from ideation to visual mockups.", "Preparing design deliverables that are easily understandable for frontend developers.", "Acting as a bridge between designers and developers to align expectations and improve workflow."]
         }
       ]
     }
@@ -118,8 +121,8 @@
   },
   "about": {
     "title": "About me",
-    "subtitle": "I am a software programming student.",
-    "description": "I am Leonardo, a Colombian frontend developer. After working for four years as a veterinarian, I decided to pursue my dream of becoming a frontend developer. I participated in the frontend specialization of the ONE program by Alura Latam and later enrolled in a technical software programming program. In my free time, I enjoy playing musical instruments and photography."
+    "subtitle": "I'm a systems intern at Bancolombia and a freelance UX design assistant",
+    "description": "I'm currently an intern at the most important bank in Colombia and one of the leading financial institutions in Latin America, playing a key role in the automation of complex processes using Python. I also work as a freelance UX design assistant for a New York-based company. Additionally, I'm a core contributor to one of the largest Spanish-speaking developer communities in the world, where I actively participate in open-source projects."
   },
   "contact": {
     "title": "Ready to make your dreams come true?",

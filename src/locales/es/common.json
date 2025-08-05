@@ -29,19 +29,24 @@
   "experience": {
     "title": "Experiencia laboral",
     "jobs": {
-      "jobs_title": ["Freelance", "HD Media Nicaragua"],
+      "jobs_title": ["Bancolombia", "Freelance"],
       "jobs_description": [
         {
-          "title": "Desarrollador Web Frontend",
-          "time": ["Dic 2021"],
-          "description": "Creo sitios web con diseños modernos y aplicando buenas prácticas de UI/UX. También me encargo de rediseñar, optimizar el posicionamiento SEO, aumentar las medidas de seguridad y optimizar el rendimiento de velocidad de sitios web, para aumentar la taza de conversión y las visitas.",
-          "list": ["Diseño de sitios web", "Optimización de sitios web"]
+          "title": "Aprendiz técnico en sistemas y afines",
+          "time": ["Julio 2025", "Actualidad"],
+          "description": "Actualmente lidero el desarrollo de una solución que reducirá en más de un 90% el tiempo requerido para la generación de notas de estados financieros en la Gerencia Corporativa de Riesgos de Crédito de Bancolombia.",
+          "list": ["Automatización de procesos con Python y Pandas",
+                  "Optimización de tareas administrativas mediante scripts personalizados",
+                  "Manejo y transformación de datos en archivos Excel",
+                  "Reducción de tiempos operativos mediante soluciones tecnológicas"]
         },
         {
-          "title": "Desarrollador Web en WordPress",
-          "time": ["Nov 2020", "Oct 2021"],
-          "description": "Me encargué de desarrollar sitios web en WordPress para clientes de Nicaragua, durante mi tiempo en la agencia aporté mi conocimiento en seguridad web aumentando las medidas y disminuyendo las brechas de seguridad en WordPress, configurando plugins y estableciendo cabeceras HTTP como Content-Security-Policy (CSP), Cross-Origin-Resource-Policy (CORP), Cross-Origin-Opener-Policy (COOP), etc.",
-          "list": ["Diseño de sitios web", "Optimización de sitios web"]
+          "title": "Asistente de Diseño UX freelance - Peazy INC (Nueva York)",
+          "time": ["Junio 2025", "Actualidad"],
+          "description": "Puesto freelance enfocado en apoyar los procesos de diseño UX y facilitar la comunicación entre los equipos de diseño y desarrollo frontend. Trabajo por horas, según los requerimientos del proyecto, asegurando que los entregables de diseño sean claros, accionables y fácilmente traducibles en tareas de desarrollo.",
+          "list": ["Apoyo en procesos de diseño UX/UI, desde la ideación hasta los mockups visuales.",
+          "Preparación de entregables de diseño comprensibles para los desarrolladores frontend.",
+          "Actuar como puente entre diseñadores y desarrolladores para alinear expectativas y mejorar el flujo de trabajo."]
         }
       ]
     }
@@ -118,8 +123,8 @@
   },
   "about": {
     "title": "Sobre mí",
-    "subtitle": "Soy estudiante de la carrera de técnico en programación de software",
-    "description": "Soy Leonardo, desarrollador frontend colombiano. Luego de ejercer durante 4 años como médico veterinario decidí perseguir mis sueños de convertirme en desarrollador frontend. Participé en la especialización frontend del programa ONE de Alura Latam y luego me inscribí a un programa técnico de programación de software. En mi tiempo libre me gusta tocar instrumentos musicales y la fotografía."
+    "subtitle": "Soy practicante de sistemas en Bancolombia y asistente de diseño UX freelance",
+    "description": "Soy practicante en el banco más importante de Colombia y uno de los más importantes de Latinoamérica, desempeñando un rol fundamental en la automatización de procesos complejos en Python. También colaboro como asistente de diseño UX freelance en una empresa con sede en Nueva York. Además soy colaborador principal en una de las comunidades de desarrollo más grandes de habla hispana del mundo, donde participo activamente en proyectos de código abierto."
   },
   "contact": {
     "title": "¿Listo para dar vida a tus ideas?",

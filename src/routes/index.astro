@@ -14,9 +14,6 @@ const options = {
   title: t('common:title'),
   description: t('common:description')
 }
-
-// Cambiar a true para mostrar la sección de experiencia cuando tenga algo hecho
-const showExperience = false
 ---
 
 <Layout options={options}>
@@ -27,7 +24,7 @@ const showExperience = false
 
   <main>
     <Hero />
-    {showExperience && <Experience />}
+    <Experience />
     <Projects />
     <Contributions />
     <About />

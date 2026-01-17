@@ -33,12 +33,12 @@
       "jobs_description": [
         {
           "title": "Technical Apprentice in Systems and Related Fields",
-          "time": ["July 2025", "Present"],
-          "description": "I am currently leading the development of a solution that will reduce by over 90% the time required to generate financial statement notes in Bancolombia's Corporate Credit Risk Management department.",
-          "list": ["Process automation using Python and Pandas",
-                  "Task optimization through custom scripts",
+          "time": ["July 2025", "January 2026"],
+          "description": "Led 3 automations that significantly reduced the execution time of repetitive tasks in the Corporate Credit Risk Management department at Bancolombia.",
+          "list": ["Process automation using Python and SQL",
+                  "Optimization of reports through automated database connectivity",
                   "Handling and transforming data in Excel files",
-                  "Reducing operational time through technological solutions"]
+                  "Reduction of operational times"]
         },
         {
           "title": "Freelance UX Design Assistant - Peazy INC (New York)",
@@ -121,8 +121,8 @@
   },
   "about": {
     "title": "About me",
-    "subtitle": "I'm a systems intern at Bancolombia and a freelance UX design assistant",
-    "description": "I'm currently an intern at the most important bank in Colombia and one of the leading financial institutions in Latin America, playing a key role in the automation of complex processes using Python. I also work as a freelance UX design assistant for a New York-based company. Additionally, I'm a core contributor to one of the largest Spanish-speaking developer communities in the world, where I actively participate in open-source projects."
+    "subtitle": "Making the complex simple",
+    "description": "I have worked on automating complex processes using Python and SQL within one of the most important banks in Latin America, an experience that allowed me to develop robust solutions in high-scale and demanding environments. I also collaborate as a freelance UX design assistant for a New York-based company, contributing to the creation of user-centered digital experiences. Additionally, I am an active key contributor in one of the largest Spanish-speaking development communities in the world, actively participating in open-source projects."
   },
   "contact": {
     "title": "Ready to make your dreams come true?",

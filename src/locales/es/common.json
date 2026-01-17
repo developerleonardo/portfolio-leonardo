@@ -33,12 +33,12 @@
       "jobs_description": [
         {
           "title": "Aprendiz técnico en sistemas y afines",
-          "time": ["Julio 2025", "Actualidad"],
-          "description": "Actualmente lidero el desarrollo de una solución que reducirá en más de un 90% el tiempo requerido para la generación de notas de estados financieros en la Gerencia Corporativa de Riesgos de Crédito de Bancolombia.",
-          "list": ["Automatización de procesos con Python y Pandas",
-                  "Optimización de tareas administrativas mediante scripts personalizados",
+          "time": ["Julio 2025", "Enero 2026"],
+          "description": "Lideré 3 automatizaciones que redujeron significativamente el tiempo de ejecución de tareas repetitivas en el departamento de Gestión de Riesgo de Crédito Corporativo de Bancolombia.",
+          "list": ["Automatización de procesos con Python y SQL",
+                  "Optimización de reportes mediante conectividad a bases de datos automatizada",
                   "Manejo y transformación de datos en archivos Excel",
-                  "Reducción de tiempos operativos mediante soluciones tecnológicas"]
+                  "Reducción de tiempos operativos"]
         },
         {
           "title": "Asistente de Diseño UX freelance - Peazy INC (Nueva York)",
@@ -123,8 +123,8 @@
   },
   "about": {
     "title": "Sobre mí",
-    "subtitle": "Soy practicante de sistemas en Bancolombia y asistente de diseño UX freelance",
-    "description": "Soy practicante en el banco más importante de Colombia y uno de los más importantes de Latinoamérica, desempeñando un rol fundamental en la automatización de procesos complejos en Python. También colaboro como asistente de diseño UX freelance en una empresa con sede en Nueva York. Además soy colaborador principal en una de las comunidades de desarrollo más grandes de habla hispana del mundo, donde participo activamente en proyectos de código abierto."
+    "subtitle": "Haciendo simple lo complejo",
+    "description": "He trabajado en la automatización de procesos complejos en Python y SQL dentro de uno de los bancos más importantes de Latinoamérica, experiencia que me permitió desarrollar soluciones robustas en entornos de alta escala y exigencia. También, colaboro como asistente de diseño UX freelance para una empresa con sede en Nueva York, aportando a la creación de experiencias digitales centradas en el usuario. Además, participo activamente como colaborador principal en una de las comunidades de desarrollo de habla hispana más grandes del mundo, contribuyendo a proyectos de código abierto."
   },
   "contact": {
     "title": "¿Listo para dar vida a tus ideas?",

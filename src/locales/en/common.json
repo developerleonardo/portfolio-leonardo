@@ -1,6 +1,6 @@
 {
-  "title": "Web Frontend Developer - Leonardo Salazar",
-  "description": "Frontend Web Developer based in Medellín, Colombia. Skilled in React, Typescript, TailwindCSS, CSS3, and HTML5.",
+  "title": "Software Developer - Leonardo Salazar",
+  "description": "Software Developer based in Medellín, Colombia. Skilled in React, Python, and SQL.",
   "navbar": [
     {
       "label": "Home",
@@ -22,8 +22,8 @@
   "hero": {
     "job_availability": "Available for work!",
     "title": "Hello I'm Leonardo!",
-    "job_title": "<strong>Web Frontend Developer</strong> from Medellin, Colombia.",
-    "description": "Proficient in React, Typescript, TailwindCSS, CSS3, and HTML5.",
+    "job_title": "<strong>Software Developer</strong> from Medellin, Colombia.",
+    "description": "Proficient in React, Python, SQL.",
     "cta": "Download CV"
   },
   "experience": {
@@ -32,7 +32,7 @@
       "jobs_title": ["Bancolombia", "Freelance"],
       "jobs_description": [
         {
-          "title": "Technical Apprentice in Systems and Related Fields",
+          "title": "Technical Intern in Systems and Related Fields",
           "time": ["July 2025", "January 2026"],
           "description": "Led 3 automations that significantly reduced the execution time of repetitive tasks in the Corporate Credit Risk Management department at Bancolombia.",
           "list": ["Process automation using Python and SQL",
@@ -121,8 +121,8 @@
   },
   "about": {
     "title": "About me",
-    "subtitle": "Making the complex simple",
-    "description": "I have worked on automating complex processes using Python and SQL within one of the most important banks in Latin America, an experience that allowed me to develop robust solutions in high-scale and demanding environments. I also collaborate as a freelance UX design assistant for a New York-based company, contributing to the creation of user-centered digital experiences. Additionally, I am an active key contributor in one of the largest Spanish-speaking development communities in the world, actively participating in open-source projects."
+    "subtitle": "I am a software developer focused on automation and data-oriented solutions.",
+    "description": "Software Developer focused on automation and data-oriented solutions. I have worked on process automation with Python and SQL at one of the most important banks in Latin America, developing robust solutions in high-demand and large-scale environments. I have also collaborated as a freelance UX design assistant for a New York–based company, and I am a core contributor to one of the largest Spanish-speaking development communities worldwide, contributing to open-source projects mainly in frontend development and design."
   },
   "contact": {
     "title": "Ready to make your dreams come true?",

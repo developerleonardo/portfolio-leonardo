@@ -121,8 +121,8 @@
   },
   "about": {
     "title": "About me",
-    "subtitle": "I am a software developer focused on automation and data-oriented solutions.",
-    "description": "Software Developer focused on automation and data-oriented solutions. I have worked on process automation with Python and SQL at one of the most important banks in Latin America, developing robust solutions in high-demand and large-scale environments. I have also collaborated as a freelance UX design assistant for a New York–based company, and I am a core contributor to one of the largest Spanish-speaking development communities worldwide, contributing to open-source projects mainly in frontend development and design."
+    "subtitle": "Software developer focused on product-oriented frontend and experience with automation solutions",
+    "description": "I have worked on process automation using Python and SQL at one of Latin America’s largest banks, building robust solutions in high-demand, large-scale environments. I have also collaborated as a freelance UX design assistant for a New York-based company and am a core contributor to one of the largest Spanish-speaking developer communities worldwide, mainly contributing to open-source projects in frontend development and UI/UX design."
   },
   "contact": {
     "title": "Ready to make your dreams come true?",

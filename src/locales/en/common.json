@@ -1,6 +1,6 @@
 {
   "title": "Software Developer - Leonardo Salazar",
-  "description": "Software Developer based in Medellín, Colombia. Skilled in React, Python, and SQL.",
+  "description": "Software Developer based in Medellín, Colombia. Skilled in React, Figma, Python, and SQL.",
   "navbar": [
     {
       "label": "Home",
@@ -23,7 +23,7 @@
     "job_availability": "Available for work!",
     "title": "Hello I'm Leonardo!",
     "job_title": "<strong>Software Developer</strong> from Medellin, Colombia.",
-    "description": "Proficient in React, Python, SQL.",
+    "description": "React, Figma, Python, SQL.",
     "cta": "Download CV"
   },
   "experience": {

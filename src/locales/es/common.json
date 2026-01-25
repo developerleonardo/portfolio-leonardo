@@ -1,6 +1,6 @@
 {
   "title": "Desarrollador de Software - Leonardo Salazar",
-  "description": "Desarrollador de Software de Medellín, Colombia. Experto en React, Python y SQL.",
+  "description": "Desarrollador de Software de Medellín, Colombia. Experto en React, Figma, Python y SQL.",
   "navbar": [
     {
       "label": "Inicio",
@@ -23,7 +23,7 @@
     "job_availability": "¡Disponible para trabajar!",
     "title": "¡Hola soy Leonardo!",
     "job_title": "<strong>Desarrollador de Software</strong> de Medellín, Colombia.",
-    "description": "Experto en React, Python y SQL.",
+    "description": "React, Python y SQL.",
     "cta": "Descargar CV"
   },
   "experience": {
